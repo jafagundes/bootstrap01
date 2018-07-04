@@ -30,6 +30,9 @@
     transform: translateY(-50%);
     text-transform: uppercase;
   }
+  .carousel img {
+    width: 100%;
+  }
   .btn {
     font-size: 18px;
     color: #FFF;
